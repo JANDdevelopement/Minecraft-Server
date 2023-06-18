@@ -1,4 +1,4 @@
-#Regelwerk von JAND
+# Regelwerk von JAND
 
 ## Minecraft Regelwerk
 1. Umgang mit Spielern
