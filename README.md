@@ -20,7 +20,7 @@ Dieses Repository soll den Zweck erfüllen, einige Auflistungen, wie aktuelle Di
 
 Repositories können manchmal ein wenig unübersichtlich werden, besonders mit vielen Dateien, die man lesen kann ;)  
 Deswegen stellen wir hier eine kleine Übersicht zur Verfügung, mit den Infos, welche Datei was beinhaltet.    
-[Player Permissions](https://github.com/JANDdevelopement/Minecraft-Server/blob/main/Player-Permissions.md) beinhalter alle Berechtigungen die Spieler haben.  
+[Player Permissions](https://github.com/JANDdevelopement/Minecraft-Server/blob/main/Player-Permissions.md) beinhaltet alle Berechtigungen die Spieler haben.  
 [Team Permissions](https://github.com/JANDdevelopement/Minecraft-Server/blob/main/Team-Permissions.md) beinhaltet eine Übersicht der Team Ränge mit ihren Permissions.  
 [Regelwerk](https://github.com/JANDdevelopement/Minecraft-Server/blob/main/Regelwerk.md) Beinhaltet das Discord & das Minecraft Regelwerk.  
 *Weiterer Inhalt folgt, sobald weitere Dateien fertiggestellt wurden.*  
