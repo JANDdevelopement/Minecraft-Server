@@ -84,6 +84,9 @@ Folgende Richtlinien gelten:
 3. Spielerdaten und Privatsphäre müssen respektiert werden. Vertrauliche Informationen dürfen nicht missbraucht oder weitergegeben werden.
 4. Es ist wichtig, fair und objektiv zu handeln und niemanden zu bevorzugen oder zu benachteiligen.
 5. Alle Entscheidungen und Maßnahmen müssen transparent und nachvollziehbar sein.
+6. Die Verwendung von "/afk <Spieler>" ist nur erlaubt, wenn nachgewiesen wurde, dass der Spieler tatsächlich abwesend ist. Sollte dies nicht der Fall sein, wird dies als Missbrauch betrachtet.
+7. Jegliche Maßnahmen wie Stummschaltungen, Kicks oder Sperrungen erfordern Beweise wie Screenshots, Aufnahmen oder ähnliches. Diese Beweismittel sollten jederzeit verfügbar sein. Die Leitung kann Chat-Protokolle und potenziell ausgeführte Befehle als Beweismittel zur Verfügung stellen.
+
 
 Wir vertrauen darauf, dass jedes Teammitglied diese Richtlinien respektiert und die Berechtigungen verantwortungsvoll einsetzt. 
 Bei Verstößen gegen diese Richtlinien können Maßnahmen ergriffen werden, einschließlich des Entzugs von Berechtigungen oder der Beendigung der Teammitgliedschaft.
