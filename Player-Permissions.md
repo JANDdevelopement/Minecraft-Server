@@ -44,6 +44,7 @@
   - Spieler können die Größe ihrer Claims sehen.
   - Spieler können die Inaktivität von Claim-Besitzern sehen.
   - Spieler können nahegelegene Claims visualisieren.
+  - Können andere Spieler vom Claim kicken.
 
 - **GSit:**
   - Spieler können kriechen, liegen, sitzen und sich spinnen.
