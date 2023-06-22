@@ -39,6 +39,7 @@
 
 **Passive Berechtigungen**
 - Kann nicht ins Gefängnis gesetzt werden
+- Kann nicht von Claims gekickt werden
 - Erhält Benachrichtigungen bei Verzögerungen von UAR (Restart System)
 
 ## Administrator
