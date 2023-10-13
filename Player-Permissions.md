@@ -14,6 +14,7 @@
 - **Economy:**
   - Spieler können ihr eigenes Guthaben und das anderer Spieler abrufen.
   - Spieler können den Befehl "balancetop" nutzen, um die Spieler mit dem höchsten Guthaben anzuzeigen.
+  - Spieler können Geld an andere Spieler überweisen.
 
 - **Nützliche Befehle:**
   - Spieler können den "compass"-Befehl nutzen.
@@ -30,9 +31,8 @@
   - Spieler können eine Liste der Online-Spieler abrufen.
   - Spieler können Nachrichten an andere Spieler senden.
   - Spieler können die "/mail" Funktion nutzen.
-  - Spieler können Geld an andere Spieler überweisen.
   - Spieler können ihre eigene Spielzeit abrufen.
-  - Spieler können ihre persönliche Spielzeit ändern.
+  - Spieler können die Uhrzeit für sich ändern.
   - Spieler können das Wetter für sich ändern.
   - Spieler können den Befehl "recipe" nutzen, um Rezepte anzuzeigen.
   - Spieler können die Serverregeln abrufen.
@@ -44,7 +44,7 @@
   - Spieler können die Größe ihrer Claims sehen.
   - Spieler können die Inaktivität von Claim-Besitzern sehen.
   - Spieler können nahegelegene Claims visualisieren.
-  - Können andere Spieler vom Claim kicken.
+  - Spieler können andere Spieler vom Claim kicken.
 
 - **GSit:**
   - Spieler können kriechen, liegen, sitzen und sich spinnen.

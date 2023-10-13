@@ -1,6 +1,7 @@
 # Minecraft Server Ränge
 
 ## Supporter
+*Alle Permissions von Spielern*
 
 **Aktive Berechtigungen**
 - Kann andere Spieler als AFK markieren
@@ -90,3 +91,5 @@ Folgende Richtlinien gelten:
 
 Wir vertrauen darauf, dass jedes Teammitglied diese Richtlinien respektiert und die Berechtigungen verantwortungsvoll einsetzt. 
 Bei Verstößen gegen diese Richtlinien können Maßnahmen ergriffen werden, einschließlich des Entzugs von Berechtigungen oder der Beendigung der Teammitgliedschaft.
+
+Stand: 13.10.2023 19:31 (CEST)
