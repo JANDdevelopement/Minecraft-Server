@@ -23,18 +23,18 @@ Spam bedeutet, massenhaft Nachrichten zu senden, daher achte bitte auf ein angem
 Darunter versteht man z.B. das Senden von Serveradressen, Links und Namen von Social Media Accounts. Sämtliche Werbung ist auf diesem Server verboten!
 
 6. Alt / Zweitaccounts
-Alt-Accounts sowie Zweit-Accounts sind unerwünscht, da man sich dadurch Vorteile verschaffen kann. Ebenfalls ist das umgehen eines Banns verboten, und der Grund für eine dauerhafte Sperrung!
+Alt-Accounts sowie Zweit-Accounts sind beim Team anzumelden, da man sich dadurch Vorteile verschaffen kann. Ebenfalls ist das umgehen eines Banns verboten, und der Grund für eine dauerhafte Sperrung!
 
 7. Abstand
 Halte mit deinen Bauwerken genug Abstand ein. Dies gilt für den Spawn sowie die Gebiete von anderen Spielern. Lasse genug Platz und baue weit genug entfernt, (Richtwert: 80 Blöcke also 5 Chunks) damit auch andere noch Platz haben für ihre Werke!
-
 Auch das umzingeln eines Spielers blockiert diesen und verdirbt den Spaß, weshalb das nicht gerne gesehen ist.
 Wenn du näher als 80 Blöcke an jemanden bauen möchtest, frage diesen zuerst!
 
 8. Farmwelten
-Als Farmwelten werden das End und der Nether gesehen.
-Diese werden unregelmäßig zurückgesetzt, weshalb du darauf verzichten solltest, dort Bauwerke zu errichten. Du solltest dich hier auch nicht ausloggen um deinen Tod zu verhindern!
-(Verlorene Gegenstände und Bauwerke werden nicht erstattet!)
+Der Nether gilt als Farmwelt, das End als soft-Farmwelt.
+Diese können unregelmäßig zurückgesetzt werden, beim End werden jedoch alle geclaimten Bauwerke erstattet.
+Du solltest dich hier nicht ausloggen um deinen Tod zu verhindern!
+(Verlorene Gegenstände werden nicht erstattet!)
 
 9. Lange Inaktive oder unangemessene Werke
 Die Leitung warnt davor, dass lange inaktive oder unangemessene Werke administrativ entfernt werden können.
@@ -43,7 +43,6 @@ Die Leitung warnt davor, dass lange inaktive oder unangemessene Werke administra
 Wer AFK ist, muss das Spiel verlassen!
 Keine automatischen Farmen dürfen in Abwesenheit laufen, das bedeutet, du solltest nicht AFK bei diesen Maschinen stehen.
 Natürlich kann es mal passieren, dass man schnell weg muss, hier übernimmt ein AFK Timeout nach 15 Minuten.
-
 AFK Brunnen und Chunkloader die diese Regel umgehen könnten sind verboten.
 
 11. Redstone Schaltungen
@@ -61,11 +60,12 @@ Das Betrügen um Gegenstände, sowie das so genannte "Scammen" ist in jedoch ste
 
 14. Daten
 Gebe zur Sicherheit NIEMALS deine privaten Daten weiter, auch nicht an Teammitglieder!
+Aufdringliches fragen nach privaten Daten sollte dem Team gemeldet werden.
 
 15. Homes
 Jeder Spieler kann ein Home von anderen Spielern auf seinem Grundstück im Support entfernen lassen.
 
-Stand: 14.06.2023
+Stand: 28.01.2024
 
 ## Discord Regelwerk
 1. Werbung
