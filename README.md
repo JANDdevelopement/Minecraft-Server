@@ -30,4 +30,4 @@ Deswegen stellen wir hier eine kleine Übersicht zur Verfügung, mit den Infos, 
   IP-Adresse: 193.31.28.225:25517  
   Version: 1.20.0 
   Modus: Survival  
-  Du möchtest noch mehr Infos? Schaue doch einfach auf unserem [Discord](https://discord.gg/EmScKUnaPe) oder unserer [Webseite](https://sites.google.com/view/jandmc/) vorbei.
+  Du möchtest noch mehr Infos? Schaue doch einfach auf unserem [Discord](https://discord.gg/EmScKUnaPe) oder unserer [Webseite](https://sites.google.com/view/jandmc/) vorbei. ^^
