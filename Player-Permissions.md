@@ -11,11 +11,6 @@
   - Spieler können den Befehl "warp" nutzen, um zu bestimmten Orten zu teleportieren.
   - Spieler können Homes löschen, sich zu ihren Homes teleportieren und neue Homes setzen.
 
-- **Economy:**
-  - Spieler können ihr eigenes Guthaben und das anderer Spieler abrufen.
-  - Spieler können den Befehl "balancetop" nutzen, um die Spieler mit dem höchsten Guthaben anzuzeigen.
-  - Spieler können Geld an andere Spieler überweisen.
-
 - **Nützliche Befehle:**
   - Spieler können den "compass"-Befehl nutzen.
   - Spieler können den Befehl "condense" ausführen.
@@ -23,12 +18,12 @@
   - Spieler können den Discord Befehl nutzen.
   - Spieler können den Befehl "disposal" nutzen.
   - Spieler können ihre Endertruhe über einen Befehl öffnen. (/ec)
-  - Spieler können ihre eigene Erfahrung und die Erfahrung anderer Spieler abrufen.
+  - Spieler können ihre eigenen und die Erfahrungspunkte anderer Spieler abrufen.
   - Spieler können ihre aktuelle Position über einen Befehl abrufen.
   - Spieler können den Befehl "helpop" senden. (Sendet eine Nachricht an Owner die online sind.)
   - Spieler können andere Spieler ignorieren.
   - Spieler können Jails einsehen.
-  - Spieler können eine Liste der Online-Spieler abrufen.
+  - Spieler können eine Liste der Online-Spieler abrufen. (/list)
   - Spieler können Nachrichten an andere Spieler senden.
   - Spieler können die "/mail" Funktion nutzen.
   - Spieler können ihre eigene Spielzeit abrufen.
@@ -58,3 +53,4 @@
 - **Sonstige Berechtigungen:**
   - Spieler können die Tablist ein- oder ausblenden.
   - Spieler können den Voicechat nutzen.
+  - Spieler können sich "/rewards" abholen.

@@ -30,7 +30,6 @@
 
 **Aktive Berechtigungen**
 - Hat Zugriff auf Brewery-Moderatorbefehle
-- Kann Balancetop aktualisieren
 - Kann den Befehl "/broadcast(world)" ausführen
 - Kann die Position anderer Spieler abrufen
 - Kann Spieler permanent stumm schalten
@@ -92,4 +91,4 @@ Folgende Richtlinien gelten:
 Wir vertrauen darauf, dass jedes Teammitglied diese Richtlinien respektiert und die Berechtigungen verantwortungsvoll einsetzt. 
 Bei Verstößen gegen diese Richtlinien können Maßnahmen ergriffen werden, einschließlich des Entzugs von Berechtigungen oder der Beendigung der Teammitgliedschaft.
 
-Stand: 13.10.2023 19:31 (CEST)
+Stand: 30.03.2024 14:07 (CEST)
