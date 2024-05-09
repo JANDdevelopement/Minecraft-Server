@@ -25,43 +25,42 @@ Alt-Accounts sowie Zweit-Accounts sind beim Team anzumelden, da man sich dadurch
 
 7. Abstand
 Halte mit deinen Bauwerken genug Abstand ein. Dies gilt für den Spawn sowie die Gebiete von anderen Spielern. Lasse genug Platz und baue weit genug entfernt, (Richtwert: 80 Blöcke also 5 Chunks) damit auch noch andere Platz für ihre Werke haben!
-
 Auch das umzingeln eines Spielers blockiert diesen und verdirbt den Spaß, weshalb das nicht gerne gesehen ist.
 Wenn du näher als 80 Blöcke an jemanden bauen möchtest, frage diesen zuerst!
 
-8. Farmwelten
+9. Farmwelten
 Der Nether gilt als Farmwelt, das End als soft-Farmwelt.
 Diese können unregelmäßig zurückgesetzt werden, beim End werden jedoch alle geclaimten Bauwerke erstattet.
 Du solltest dich hier nicht ausloggen um deinen Tod zu verhindern!
 (Verlorene Gegenstände werden nicht erstattet!)
 
-9. Lange Inaktive oder unangemessene Werke
+10. Lange Inaktive oder unangemessene Werke
 Die Leitung warnt davor, dass lange inaktive oder unangemessene Werke administrativ entfernt werden können.
 
-10. Automatische Farmen / AFK Farmen
+11. Automatische Farmen / AFK Farmen
 Wer AFK ist, muss das Spiel verlassen!
 Keine automatischen Farmen dürfen in Abwesenheit laufen, das bedeutet, du solltest nicht AFK bei diesen Maschinen stehen.
 Natürlich kann es mal passieren, dass man schnell weg muss, hier übernimmt ein AFK Timeout nach 15 Minuten.
 AFK Brunnen und Chunkloader die diese Regel umgehen könnten sind verboten.
 
-11. Redstone Schaltungen
+12. Redstone Schaltungen
 Sehr große Redstone Schaltungen sind zu begrenzen.
 Damit die Serverleistung geschont wird und Lags verhindert werden, muss jede große Schaltung deaktivierbar sein.
 Solltest du eine größere Schaltung bauen wollen, frage einfach ein Teammitglied. Dort kannst du jederzeit anfragen, dass deine Schaltung erlaubt wird!
 
-12. Aufnahmen / Livestreaming
+13. Aufnahmen / Livestreaming
 Natürlich ist es erlaubt, YouTube-Videos oder Live Streams auf unserem Server zu erstellen. Bitte beachtet aber die rechtlichen Vorgaben Eurer Portale (YT/Twitch und Co), so wie die der Spielehersteller!
 
-13. Eigentum
+14. Eigentum
 Den gesamten Besitz eines anderes Spielers zu stehlen ist verboten.
 Natürlich ist es möglich anderen Spielern einen Streich zu spielen, oder aus einer ungeschützten Basis etwas mitzunehmen.
 Das Betrügen um Gegenstände, sowie das so genannte "Scammen" ist in jedoch stets zu vermeiden!
 
-14. Daten
+15. Daten
 Gebe zur Sicherheit NIEMALS deine privaten Daten weiter, auch nicht an Teammitglieder!
 Aufdringliches fragen nach privaten Daten sollte dem Team gemeldet werden.
 
-15. Homes
+16. Homes
 Jeder Spieler kann ein Home von anderen Spielern auf seinem Grundstück im Support entfernen lassen.
 
 Stand: 29.05.2024
