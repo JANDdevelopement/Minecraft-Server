@@ -6,13 +6,11 @@ Um ein freundliches Miteinander zu bewahren sind Beleidigungen auf jeder Art und
 Auch Rassistische, allgemein Sexuelle und Sexistische Inhalte sind hier verboten!
 
 2. Kämpfe
-Auf allen unserer Welten ist PvP erlaubt, sollte der gegenüber damit einverstanden sein. Fallen (z.B. eine mit einer Teleport-Anfrage über einem Lavasee) sind somit verboten!
+Auf allen unseren Welten ist PvP grundsätzlich erlaubt. Sowohl das Kämpfen auf geschützten Gebieten ohne die Zustimmung aller, als auch Fallen (z.B. eine mit einer Teleport-Anfrage über einem Lavasee) sind jedoch verboten! Außerdem ist es untersagt nach einem Kampf die Items des Spielers zu stehlen.
 
 3. Cheaten
-Kein Hacking, Cheaten oder ähnliches ist erlaubt! Verwende keine Cheats oder Mods, die dir unfaire Vorteile verschaffen könnten. Informationen zu erlaubten und verbotenen Mods findest du im Discord oder beim Team.
-Melde Fehler (Bugs) dem Team und spiele fair. Nur Teppiche und Schienen dürfen mit Redstone Mechaniken dupliziert werden.
-Beispiele für verbotene Mods:
-X-Ray, Fly, AutoClicker, WorldDownloader, Printer, Speed, NoFall, Jesus, vClip und ähnliche.
+Kein Hacking, Cheaten oder ähnliches ist erlaubt! Verwende keine Cheats oder Mods, die dir unfaire Vorteile verschaffen könnten. Melde Fehler (Bugs) dem Team und spiele fair.
+Mods dürfen nur genutzt werden, wenn man eine Mod wie "ModMenu" nutzt, die ingame eine Modliste bereitstellt. Informationen zu erlaubten und verbotenen Mods findest du im Discord oder beim Team.
 
 4. Spam
 Bitte achte darauf, den Chat nicht zu überfüllen.
@@ -26,7 +24,8 @@ Darunter versteht man z.B. das Senden von Serveradressen, Links und Namen von So
 Alt-Accounts sowie Zweit-Accounts sind beim Team anzumelden, da man sich dadurch Vorteile verschaffen kann. Ebenfalls ist das umgehen eines Banns verboten, und der Grund für eine dauerhafte Sperrung!
 
 7. Abstand
-Halte mit deinen Bauwerken genug Abstand ein. Dies gilt für den Spawn sowie die Gebiete von anderen Spielern. Lasse genug Platz und baue weit genug entfernt, (Richtwert: 80 Blöcke also 5 Chunks) damit auch andere noch Platz haben für ihre Werke!
+Halte mit deinen Bauwerken genug Abstand ein. Dies gilt für den Spawn sowie die Gebiete von anderen Spielern. Lasse genug Platz und baue weit genug entfernt, (Richtwert: 80 Blöcke also 5 Chunks) damit auch noch andere Platz für ihre Werke haben!
+
 Auch das umzingeln eines Spielers blockiert diesen und verdirbt den Spaß, weshalb das nicht gerne gesehen ist.
 Wenn du näher als 80 Blöcke an jemanden bauen möchtest, frage diesen zuerst!
 
@@ -65,7 +64,7 @@ Aufdringliches fragen nach privaten Daten sollte dem Team gemeldet werden.
 15. Homes
 Jeder Spieler kann ein Home von anderen Spielern auf seinem Grundstück im Support entfernen lassen.
 
-Stand: 28.01.2024
+Stand: 29.05.2024
 
 ## Discord Regelwerk
 1. Werbung
