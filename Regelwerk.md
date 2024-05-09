@@ -68,14 +68,14 @@ Stand: 29.05.2024
 
 ## Discord Regelwerk
 1. Werbung
-Jede Art von Fremd- und Eigenwerbung ist verboten. Bitte melde dich dafür zuerst beim Streamer!
+Jede Art von Fremd- und Eigenwerbung ist verboten. Bitte melde dich dafür zuerst beim Inhaber des Servers!
 
 2. Umgang
 Der Umgang mit anderen Discord Benutzern sollte stets freundlich sein. Verbale Angriffe gegen andere User sind strengstens untersagt.
 
 3. Ausschluss
-Das Umgehen von Banns ist untersagt.
-Jegliche Ausnutzung von Bugs oder Exploits ist verboten.
+Das Umgehen von Banns ist untersagt. 
+Jegliche Ausnutzung von Bugs oder Exploits ist verboten. 
 
 4. Daten / Informationen
 Bitte gebt niemals persönliche und private Informationen von euch oder anderen weiter! Weder in einem Sprach- noch in einem Textkanal.
@@ -83,4 +83,12 @@ Bitte gebt niemals persönliche und private Informationen von euch oder anderen 
 5. Twitch / Youtube
 Bitte beachtet, dass in den Chats von diesen Plattformen eigene Regeln gelten.
 
-Stand: 14.06.2023
+6. NFSW
+Keine altersbegrenzten oder obszönen Inhalte. Dazu zählen Texte, Bilder oder Links mit Nacktheit, Sex, schwerer Gewalt oder anderen grafisch verstörenden Inhalten.
+
+7. Direktnachrichten
+Mitglieder auf diesem Discord ungefragt per DM anzuschreiben ist untersagt.
+Wird ein Verstoß festgestellt und die betroffene Person meldet dies, kann man dafür von der Community ausgeschlossen werden.
+
+
+Stand: 09.05.2024
