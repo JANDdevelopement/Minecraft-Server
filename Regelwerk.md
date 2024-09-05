@@ -1,4 +1,6 @@
 # Regelwerk von JAND
+Diese Regeln können jederzeit ohne Ankündigung geändert werden. 
+Du bist daher selbst dafür verantwortlich, dich in regelmäßigen Abständen über Änderungen der Serverregeln zu informieren.  
 
 ## Minecraft Regelwerk
 1. Umgang mit Spielern
