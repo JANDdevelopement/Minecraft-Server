@@ -54,3 +54,4 @@
   - Spieler können die Tablist ein- oder ausblenden.
   - Spieler können den Voicechat nutzen.
   - Spieler können sich "/rewards" abholen.
+  - Spieler können "/clan" nutzen um sich zu alliieren.
