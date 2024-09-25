@@ -72,7 +72,7 @@ Jeder Spieler kann ein Home von anderen Spielern auf seinem Grundstück im Suppo
 17. Individuelle Regelungen  
 Nach Ermessen der Projektleitung können einzelne Regeln oder Richtwerte individuell für Nutzer außer Kraft gesetzt werden.  
 
-Stand: 29.05.2024
+Stand: 25.09.2024
 
 ## Discord Regelwerk
 1. Werbung  
@@ -99,4 +99,4 @@ Mitglieder auf diesem Discord ungefragt per DM anzuschreiben ist untersagt.
 Wird ein Verstoß festgestellt und die betroffene Person meldet dies, kann man dafür von der Community ausgeschlossen werden.  
 
 
-Stand: 09.05.2024
+Stand: 25.09.2024
