@@ -91,4 +91,4 @@ Folgende Richtlinien gelten:
 Wir vertrauen darauf, dass jedes Teammitglied diese Richtlinien respektiert und die Berechtigungen verantwortungsvoll einsetzt. 
 Bei Verstößen gegen diese Richtlinien können Maßnahmen ergriffen werden, einschließlich des Entzugs von Berechtigungen oder der Beendigung der Teammitgliedschaft.
 
-Stand: 30.03.2024 14:07 (CEST)
+Stand: 25.09.2024 23:45 (CEST)

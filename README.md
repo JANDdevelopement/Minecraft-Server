@@ -31,4 +31,4 @@ Deswegen stellen wir hier eine kleine Übersicht zur Verfügung, mit den Infos, 
   Addresse: mc.jandmc.de  
   Version: 1.20.0 
   Modus: Survival  
-  Du möchtest noch mehr Infos? Schaue doch einfach auf unserem [Discord](https://discord.gg/EmScKUnaPe) oder unserer [Webseite](https://sites.google.com/view/jandmc/) vorbei. ^^
+  Du möchtest noch mehr Infos? Schaue doch einfach auf unserem [Discord](https://discord.gg/EmScKUnaPe) vorbei. ^^
