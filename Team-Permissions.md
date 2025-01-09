@@ -18,7 +18,7 @@
 **Passive Berechtigungen**
 - Erhält Benachrichtigungen bei Bans
 - Erhält Benachrichtigungen bei IP-Bans
-- Kann nicht ignoriert werden
+- Kann nicht ignoriert werden (Nur auf dem Survival)
 - Erhält Benachrichtigungen wenn Spieler ins Gefängniss gesetzt werden
 - Erhält Benachrichtigungen bei Kicks
 - Kann nicht stummgeschaltet werden
@@ -35,11 +35,11 @@
 - Kann Spieler permanent stumm schalten
 - Kann die Zeit anderer Spieler einstellen
 - Kann das Wetter anderer Spieler einstellen
-- Kann zwei Spieler zwingen, sich gegenseitig zu ignorieren
+- Kann zwei Spieler zwingen, sich gegenseitig zu ignorieren (Nur auf dem Survival)
 
 **Passive Berechtigungen**
 - Kann nicht ins Gefängnis gesetzt werden
-- Kann nicht von Claims gekickt werden
+- Kann nicht von Claims gekickt werden (Nur auf dem Survival)
 - Erhält Benachrichtigungen bei Verzögerungen von UAR (Restart System)
 
 ## Administrator
@@ -49,17 +49,17 @@
 - Kann Spieler bannen
 - Kann Spieler per IP bannen
 - Kann das eigene Inventar leeren ("/clear")
-- Kann die Endertruhen anderer Spieler einsehen
+- Kann die Endertruhen anderer Spieler einsehen (Nur auf dem Survival)
 - Kann den Befehl "/fly" verwenden
 - Kann den Befehl "/god" verwenden
 - Kann den Befehl "/heal" verwenden
 - Kann andere Spieler heilen
-- Kann sich zu den Home-Punkten anderer Spieler teleportieren
+- Kann sich zu den Home-Punkten anderer Spieler teleportieren (Nur auf dem Survival)
 - Kann andere Spieler zum Spawn teleportieren
 - Kann Spieler entbannen
 - Kann Spieler per IP entbannen
 - Hat Zugriff auf den Unsichtbarkeitsmodus (Vanish)
-- Kann die Claim-Listen anderer Spieler einsehen
+- Kann die Claim-Listen anderer Spieler einsehen (Nur auf dem Survival)
 - Kann sich Backups von InventoryRollBack ansehen
 - Kann sich zu Backups teleportieren
 - Kann Backups erzwingen
@@ -91,4 +91,4 @@ Folgende Richtlinien gelten:
 Wir vertrauen darauf, dass jedes Teammitglied diese Richtlinien respektiert und die Berechtigungen verantwortungsvoll einsetzt. 
 Bei Verstößen gegen diese Richtlinien können Maßnahmen ergriffen werden, einschließlich des Entzugs von Berechtigungen oder der Beendigung der Teammitgliedschaft.
 
-Stand: 25.09.2024 23:45 (CEST)
+Stand: 09.01.2025 15:30 (CEST)
