@@ -9,3 +9,6 @@ Stelle selbstverständlich vorher sicher dich mit den [Regeln](https://github.co
 
 Hast du diese Schritte erledigt wird dein Minecraft Name mit deiner Anfrage an das Team geleitet.  
 Unser Team prüft dann deine Anfrage und (wenn notwendig) meldet sich in Kürze bei dir.  
+
+WICHTIG: Stelle sicher dass der Befehl ausgeführt wird und keine übliche Nachricht gesendet wird.
+![Der Befehl](./WhitelistStep0.png)
