@@ -69,14 +69,20 @@ Aufdringliches fragen nach privaten Daten sollte dem Team gemeldet werden.
 16. Homes  
 Jeder Spieler kann ein Home von anderen Spielern auf seinem Grundstück im Support entfernen lassen.  
 
-17. Combat Logging
+17. Combat Logging  
 Das absichtliche Verlassen des Spiels während eines Kampfes („Combat Logging“) ist verboten!  
 Dies umfasst das Ausloggen während eines PvP-Kampfes, um den Tod oder den Verlust von Gegenständen zu vermeiden.  
 Wer das Spiel während eines Kampfes verlässt, kann mit Strafen rechnen.  
-
 Sollte eine unerwartete Trennung (z. B. durch einen Verbindungsabbruch) auftreten, muss der Spieler einen Screenshot mit Zeitstempel und der Kick-Nachricht anfertigen.  
 Für ein Combat Logging-Ticket ist ein gültiger Beweis in Form eines Clips erforderlich.  
 Falls Unklarheiten bestehen, wie ein solcher Clip erstellt wird, kann ein Ticket im Support eröffnet werden.  
+
+18. Griefing  
+Griefing ist strengstens untersagt.  
+Dazu zählt jegliches absichtliche Verhalten, das anderen Spielern Schaden oder Frustration zufügt, einschließlich, aber nicht beschränkt auf:  
+- Zerstören, Verunstalten oder Blockieren von Bauwerken oder Claims anderer Spieler.
+- Platzieren oder Entfernen von Blöcken, um den Fortschritt oder das Spielgeschehen anderer zu behindern.
+- Sonstige Aktionen, die das Spielerlebnis absichtlich negativ beeinflussen.
 
 18. Individuelle Regelungen  
 Nach Ermessen der Projektleitung können einzelne Regeln oder Richtwerte individuell für Nutzer außer Kraft gesetzt werden.  
