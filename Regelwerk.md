@@ -84,10 +84,10 @@ Dazu zählt jegliches absichtliche Verhalten, das anderen Spielern Schaden oder 
 - Platzieren oder Entfernen von Blöcken, um den Fortschritt oder das Spielgeschehen anderer zu behindern.
 - Sonstige Aktionen, die das Spielerlebnis absichtlich negativ beeinflussen.
 
-18. Individuelle Regelungen  
+19. Individuelle Regelungen  
 Nach Ermessen der Projektleitung können einzelne Regeln oder Richtwerte individuell für Nutzer außer Kraft gesetzt werden.  
 
-Stand: 29.01.2025
+Stand: 17.02.2025
 
 ## Discord Regelwerk
 1. Werbung  
