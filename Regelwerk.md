@@ -33,43 +33,45 @@ Lasse genug Platz und baue weit genug entfernt, (Richtwert: 80 Blöcke also 5 Ch
 Auch das umzingeln eines Spielers blockiert diesen und verdirbt den Spaß, weshalb das nicht gerne gesehen ist.  
 Wenn du näher als 80 Blöcke an jemanden bauen möchtest, frage diesen zuerst!  
 
-9. Farmwelten  
+8. Farmwelten  
 Der Nether gilt als Farmwelt, das End als soft-Farmwelt.  
 Diese können unregelmäßig zurückgesetzt werden, beim End werden jedoch alle geclaimten Bauwerke erstattet.  
 Du solltest dich hier nicht ausloggen um deinen Tod zu verhindern!  
 (Verlorene Gegenstände werden nicht erstattet!)  
 
-10. Lange Inaktive oder unangemessene Werke  
+9. Lange Inaktive oder unangemessene Werke  
 Die Leitung warnt davor, dass lange inaktive oder unangemessene Werke administrativ entfernt werden können.  
 
-11. Automatische Farmen / AFK Farmen  
+10. Automatische Farmen / AFK Farmen  
 Wer AFK ist, muss das Spiel verlassen!  
 Keine automatischen Farmen dürfen in Abwesenheit laufen, das bedeutet, du solltest nicht AFK bei diesen Maschinen stehen.  
 Natürlich kann es mal passieren, dass man schnell weg muss, hier übernimmt ein AFK Timeout nach 15 Minuten.  
 AFK Brunnen und Chunkloader die diese Regel umgehen könnten sind verboten.  
 
-12. Redstone Schaltungen  
+11. Redstone Schaltungen  
 Sehr große Redstone Schaltungen sind zu begrenzen.  
 Damit die Serverleistung geschont wird und Lags verhindert werden, muss jede große Schaltung deaktivierbar sein.  
 Solltest du eine größere Schaltung bauen wollen, frage einfach ein Teammitglied. Dort kannst du jederzeit anfragen, dass deine Schaltung erlaubt wird!  
 
-13. Aufnahmen / Livestreaming  
-Natürlich ist es erlaubt, YouTube-Videos oder Live Streams auf unserem Server zu erstellen.  
-Bitte beachtet aber die rechtlichen Vorgaben Eurer Portale (YT/Twitch und Co), so wie die der Spielehersteller!  
+12. Aufnahmen / Livestreaming  
+Aufnahmen und Livestreams sind erlaubt.  
+Mit dem Betreten des Servers stimmt ihr zu, dass eure Stimme, Nachrichten und euer Nutzername aufgezeichnet und veröffentlicht werden dürfen.  
+alls ihr nicht zustimmt, betretet den Server nicht.  
+Beachtet dabei die Regeln der Plattformen und Spielehersteller!  
 
-14. Eigentum  
+13. Eigentum  
 Den gesamten Besitz eines anderes Spielers zu stehlen ist verboten.  
 Natürlich ist es möglich anderen Spielern einen Streich zu spielen, oder aus einer ungeschützten Basis etwas mitzunehmen.  
 Das Betrügen um Gegenstände, sowie das so genannte "Scammen" ist in jedoch stets zu vermeiden!  
 
-15. Daten  
+14. Daten  
 Gebe zur Sicherheit NIEMALS deine privaten Daten weiter, auch nicht an Teammitglieder!  
 Aufdringliches fragen nach privaten Daten sollte dem Team gemeldet werden.  
 
-16. Homes  
+15. Homes  
 Jeder Spieler kann ein Home von anderen Spielern auf seinem Grundstück im Support entfernen lassen.  
 
-17. Combat Logging  
+16. Combat Logging  
 Das absichtliche Verlassen des Spiels während eines Kampfes („Combat Logging“) ist verboten!  
 Dies umfasst das Ausloggen während eines PvP-Kampfes, um den Tod oder den Verlust von Gegenständen zu vermeiden.  
 Wer das Spiel während eines Kampfes verlässt, kann mit Strafen rechnen.  
@@ -77,17 +79,17 @@ Sollte eine unerwartete Trennung (z. B. durch einen Verbindungsabbruch) auftrete
 Für ein Combat Logging-Ticket ist ein gültiger Beweis in Form eines Clips erforderlich.  
 Falls Unklarheiten bestehen, wie ein solcher Clip erstellt wird, kann ein Ticket im Support eröffnet werden.  
 
-18. Griefing  
+17. Griefing  
 Griefing ist strengstens untersagt.  
 Dazu zählt jegliches absichtliche Verhalten, das anderen Spielern Schaden oder Frustration zufügt, einschließlich, aber nicht beschränkt auf:  
 - Zerstören, Verunstalten oder Blockieren von Bauwerken oder Claims anderer Spieler.
 - Platzieren oder Entfernen von Blöcken, um den Fortschritt oder das Spielgeschehen anderer zu behindern.
 - Sonstige Aktionen, die das Spielerlebnis absichtlich negativ beeinflussen.
 
-19. Individuelle Regelungen  
+18. Individuelle Regelungen  
 Nach Ermessen der Projektleitung können einzelne Regeln oder Richtwerte individuell für Nutzer außer Kraft gesetzt werden.  
 
-Stand: 17.02.2025
+Stand: 18.03.2025
 
 ## Discord Regelwerk
 1. Werbung  
