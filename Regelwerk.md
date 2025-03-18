@@ -56,7 +56,7 @@ Solltest du eine größere Schaltung bauen wollen, frage einfach ein Teammitglie
 12. Aufnahmen / Livestreaming  
 Aufnahmen und Livestreams sind erlaubt.  
 Mit dem Betreten des Servers stimmt ihr zu, dass eure Stimme, Nachrichten und euer Nutzername aufgezeichnet und veröffentlicht werden dürfen.  
-alls ihr nicht zustimmt, betretet den Server nicht.  
+Falls ihr nicht zustimmt, betretet den Server nicht.  
 Beachtet dabei die Regeln der Plattformen und Spielehersteller!  
 
 13. Eigentum  
