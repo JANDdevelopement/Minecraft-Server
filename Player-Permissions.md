@@ -95,6 +95,7 @@ Stand: 09.01.2025 15:30 (CEST)
   - Spieler können die "Balance" von sich und anderen abrufen.
   - Spieler können den "balancetop"-Befehl nutzen.
   - Spieler können Überweisungen tätigen.
+  - Spieler können Chestshops nutzen
 
 - **OneBlock:**
   - Spieler können sämtliche Berechtigungen nutzen, die als Standard-Berechtigungen vom Plugin erteilt werden.
